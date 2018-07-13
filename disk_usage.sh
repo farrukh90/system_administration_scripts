@@ -1,4 +1,5 @@
 #Yum install mailx -y before running
+# This script sends a message when the disk usage is 90%, however you can change it to 10% by "ALERT=10" on line 12
 
 #!/bin/sh
 # set -x
