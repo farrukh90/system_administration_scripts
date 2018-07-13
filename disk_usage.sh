@@ -8,7 +8,7 @@
 # Set admin email so that you can get email.
 ADMIN="root"
 # set alert level 90% is default
-ALERT=1
+ALERT=90
 # Exclude list of unwanted monitoring, if several partions then use "|" to separate the partitions.
 # An example: EXCLUDE_LIST="/dev/hdd1|/dev/hdc5"
 EXCLUDE_LIST="/auto/ripper"
