@@ -1,2 +1,2 @@
-# system_administration_scripts
-This is daily system administration script
+Before running the script install mailx
+[root@localhost ]# yum install mailx -y
